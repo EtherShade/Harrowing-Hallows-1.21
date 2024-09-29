@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_styxite_deepslate_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "harrowinghallows:styxite_deepslate_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "harrowinghallows:styxite_ingot_from_blasting_styxite_deepslate_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_styxite_deepslate_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "harrowinghallows:styxite_ingot_from_blasting_styxite_deepslate_ore"
+    ]
+  }
+}

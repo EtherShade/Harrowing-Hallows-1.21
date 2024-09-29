@@ -1,0 +1,9 @@
+// 1.21.1	2024-09-28T22:31:13.7027686	Tags for minecraft:block mod id harrowinghallows
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/harrowinghallows/tags/block/incorrect_for_styxite_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/harrowinghallows/tags/block/needs_styxite_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/fences.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/fence_gates.json
+9ea8434d273b8a59231e4df31e21c838c7a35931 data/minecraft/tags/block/mineable/pickaxe.json
+9ea8434d273b8a59231e4df31e21c838c7a35931 data/minecraft/tags/block/needs_diamond_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/block/walls.json

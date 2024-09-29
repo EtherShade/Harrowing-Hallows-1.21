@@ -1,0 +1,5 @@
+// 1.21.1	2024-09-28T22:31:13.7037683	Loot Tables
+b18cb249fc12b442a276bfeff5e63521f133c80c data/harrowinghallows/loot_table/blocks/raw_styxite_block.json
+988501bc417689e92213b992b428011244450349 data/harrowinghallows/loot_table/blocks/styxite_block.json
+e69068ab40741c7ec2b0adccde185aaf8f1da73f data/harrowinghallows/loot_table/blocks/styxite_deepslate_ore.json
+6b641ccf4892e340aa6a550a578cbba3d56a9fc5 data/harrowinghallows/loot_table/blocks/styxite_ore.json

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_styxite_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "harrowinghallows:styxite_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "harrowinghallows:styxite_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_styxite_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "harrowinghallows:styxite_block"
+    ]
+  }
+}
