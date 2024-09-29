@@ -25,7 +25,6 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.STYXITE_SHOVEL.get());
                         output.accept(ModItems.STYXITE_AXE.get());
                         output.accept(ModItems.STYXITE_HOE.get());
-                        output.accept(ModItems.STYXITE_HAMMER.get());
 
                     }).build());
 

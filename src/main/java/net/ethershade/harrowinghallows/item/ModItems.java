@@ -1,7 +1,6 @@
 package net.ethershade.harrowinghallows.item;
 
 import net.ethershade.harrowinghallows.HarrowingHallows;
-import net.ethershade.harrowinghallows.item.custom.HammerItem;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -31,9 +30,6 @@ public class ModItems {
     public static final RegistryObject<Item> STYXITE_HOE = ITEMS.register("styxite_hoe",
             () -> new HoeItem(ModToolTiers.STYXITE, new Item.Properties()
                     .attributes(HoeItem.createAttributes(ModToolTiers.STYXITE, 0, -3.0f))));
-    public static final RegistryObject<Item> STYXITE_HAMMER = ITEMS.register("styxite_hammer",
-            () -> new HammerItem(ModToolTiers.STYXITE, new Item.Properties()
-                    .attributes(PickaxeItem.createAttributes(ModToolTiers.STYXITE, 7, -3.5f))));
 
 
     public static void register(IEventBus eventBus) {

@@ -27,7 +27,6 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.STYXITE_SHOVEL);
         handheldItem(ModItems.STYXITE_AXE);
         handheldItem(ModItems.STYXITE_HOE);
-        handheldItem(ModItems.STYXITE_HAMMER);
     }
 
     private ItemModelBuilder handheldItem(RegistryObject<Item> item) {
